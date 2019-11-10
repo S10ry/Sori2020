@@ -27,3 +27,10 @@ Route::get('/notre-organisation', function() {
 	return view('our_team');
 });
 
+Route::get('/date-cles', function() {
+	return view('timeline');
+});
+
+Route::get('/le-programme', function() {
+	return view('program');
+});

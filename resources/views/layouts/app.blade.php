@@ -12,6 +12,7 @@
   <link href="./assets/favicon.ico" rel="icon">
   <title>Sori Dembele 2020</title>
   <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+
 </head>
 
 <body>
@@ -26,15 +27,15 @@
             <span class="icon-bar"></span>
           </button>
           <a class="navbar-brand" href="/" title="" style="font-weight: 800;">
-            Sori Dembélé - 2020
+            Ma voix, ma ville
           </a>
         </div>
         <div class="collapse navbar-collapse" id="navbar-collapse-uarr">
           <ul class="nav navbar-nav navbar-right">
+            <li><a href="/le-mouvement" title="">L'actualité</a></li>
             <li><a href="/le-mouvement" title="">Qui sommes nous ?</a></li>
-            <li><a href="" title="">Notre programme</a></li>
             <li><a href="/notre-organisation" title="">L'équipe</a></li>
-            <li><a href="/nous-contacter" title="">Date clés</a></li>
+            <li><a href="/date-cles" title="">Dates clés</a></li>
             <li><a href="/nous-contacter" title="">Nous contacter</a></li>
           </ul>
         </div>
